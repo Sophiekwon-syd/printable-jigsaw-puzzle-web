@@ -7,7 +7,7 @@ const PrivacyPolicy: React.FC = () => {
       <div className="bg-white p-8 md:p-12 rounded-3xl shadow-sm border border-slate-200">
         <h2 className="text-3xl font-bold text-slate-900 mb-2">Privacy Policy</h2>
         <p className="text-slate-500 mb-8 font-medium italic">Last Updated: January 29, 2026</p>
-        
+
         <div className="prose prose-slate max-w-none space-y-8 text-slate-700">
           <section>
             <h3 className="text-xl font-bold text-slate-900 mb-3">1. Overview</h3>
@@ -43,7 +43,7 @@ const PrivacyPolicy: React.FC = () => {
 
           <section>
             <h3 className="text-xl font-bold text-slate-900 mb-3">4. Contact Us</h3>
-            <p>If you have any questions about this Privacy Policy, please contact us at: <a href="mailto:support@yourdomain.com" className="text-indigo-600 font-semibold underline decoration-indigo-200 underline-offset-4">support@yourdomain.com</a></p>
+            <p>If you have any questions about this Privacy Policy, please contact us at: <a href="mailto:sophiekwon.syd@gmail.com" className="text-indigo-600 font-semibold underline decoration-indigo-200 underline-offset-4">sophiekwon.syd@gmail.com</a></p>
           </section>
         </div>
       </div>
